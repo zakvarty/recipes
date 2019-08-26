@@ -13,6 +13,21 @@ description: "This is a working version of a recipie collection of my favourite 
 # About
 This is a working version of a recipie collection of my favourite and most used recipies. 
 
+Recipes should be written according to the following template. 
+
+## Recipe title
+_recipe source_ 
+
+__Prep:__ mins    __Cook:__ mins     __Serves:__  
+
+__Ingredients:__
+ *
+ *
+ *
+__Method:__ 
+1.
+2.
+3.
 
 ## Markdown syntax reminder
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
