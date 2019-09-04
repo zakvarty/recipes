@@ -20,13 +20,13 @@ install.packages("bookdown")
 # devtools::install_github("rstudio/bookdown")
 ```
 ## Key markdown syntax
-The content of this book is predominantly written in plain text. Additional formatting may be added to make text *bold*, _italic_ or `verbatim`.
+The content of this book is predominantly written in plain text. Additional formatting may be added to make text __bold__, _italic_ or `verbatim`.
 
-| formatting | syntax     |
-|------------|------------|
-| bold       | *bold*     |
-| italic     | _italic_   |
-| verbatim   | `verbatim` |
+| formatting     | syntax                      |
+|----------------|-----------------------------|
+| __bold__       | `__bold__` or `**bold**`    |
+| _italic_       | `_italic_` or `*italic*`    |
+| `verbatim`     | ``verbatim``                |
 
 ## Adding a recipe 
 Recipes are added to the desired chapter.Rmd and should be written according to the following template. Recipies may be added by submission of a pull request.
